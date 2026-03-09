@@ -15,7 +15,7 @@
 
 ❗ **Work on this task until you succesfully implemented it (but no longer than 1.5h).**
 
-❗ **As a final step, fill out the survey which asks you to submit your code changes + screen recording.**
+❗ **As a final step, fill out the survey (link at the end) which asks you to submit your code changes + screen recording.**
 
 
 ## Setting
